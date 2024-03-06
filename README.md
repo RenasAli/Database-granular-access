@@ -3,9 +3,13 @@
 - Ask me to run my server.
 - Have MySQL-server installed.
 - Use a a bash shell.
+- In the bash shell navigate to the folder, where dumpfile.sql is located.
+- Run the command:
+  	1. <code> mysql -u root -p < dumpfile.sql </code>
+   	2. set the password for your root.
 - Run this command in bash shell to connect to the database:
   
-	1. <code> mysql -h 172.16.209.128 -u hello -p </code>
+	1. <code> mysql -u hello -p </code>
 - Than you need the password:
   	1. <code>@Renas@42926624</code>
 - Run this command to use the database:
@@ -28,6 +32,4 @@ you have the following permissions.
 - you can only update user_address in this table.
 - you can not create or delete any thing in this table.
 
-	
 
-**There are a colum called users. which is user id**
