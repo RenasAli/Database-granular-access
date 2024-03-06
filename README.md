@@ -1,6 +1,6 @@
 # Database-granular-access
 ## Setup
-- Ask me to run my server.
+- Clone this repository
 - Have MySQL-server installed.
 - Use a a bash shell.
 - In the bash shell navigate to the folder, where dumpfile.sql is located.
